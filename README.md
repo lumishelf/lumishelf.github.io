@@ -1,3 +1,3 @@
 # lumishelf.github.io
 
-Rinvio alla pagina di LumiShelf: https://lumishelf.github.io/LumiShelf/
+LumiShelf ora si chiama **Lampleaf Reader**: https://lampleaf.github.io/
